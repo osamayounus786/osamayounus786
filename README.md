@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Next.Js**
 
 - 👨‍💻 Portfolio: [https://osamayounus786.github.io/turo-web-clone/](https://osamayounus786.github.io/turo-web-clone/)
 
-- 💬 Ask me about **JavaScript , React**
+- 💬 Ask me about **JavaScript , React , Next**
 
 - 📫 How to reach me **osamayounus541@gmail.com**
 
